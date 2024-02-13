@@ -2,7 +2,7 @@
 
 Send Slack notifications for new releases of OSS dependencies. 
 
-## exmples of OSS projects used
+## examples of OSS projects used
 
 - https://github.com/hashicorp/terraform
 - https://github.com/gruntwork-io/terragrunt
